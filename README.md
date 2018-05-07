@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Δικτυογραφία που χρησιμοποιήθηκε για τα ζητούμενα του 1ου Παραδοτέου:
+
+Link για τις πληροφορίες με τα χρώματα: https://colorwiki.org/
+
+Link για το εργαλείο που χρησιμοποιήθηκε για τη μετατροπή του κειμένου σε φωνή: https://responsivevoice.org/api/
+
+Link για τον ιστότοπο από όπου 'κατεβάστηκε' ο ήχος που προστέθηκε όταν γίνεται 'κλικ' στις επιλογές ομαδοποίησης των δεδομένων: https://www.soundjay.com/button-sounds-2.html 
