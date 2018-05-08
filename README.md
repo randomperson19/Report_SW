@@ -67,7 +67,7 @@
 
 * Εδώ παρουσιάζονται οι αλλαγές στα χρώματα των κύκλων με τα δεδομένα, καθώς και των 3 πεδίων ομαδοποίησης του 'split by party'.
 
-![Colour]({{https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF_2}}/Screenshots/Colour.png)
+![Colour](https://github.com/randomperson19/Report_SW/blob/master/Colour.png)
 
 * Παρακάτω διαφαίνεται η καινούρια ομαδοποίηση 'split by the amount of the donation' που προστέθηκε.
 
