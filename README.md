@@ -67,7 +67,7 @@
 
 * Εδώ παρουσιάζονται οι αλλαγές στα χρώματα των κύκλων με τα δεδομένα, καθώς και των 3 πεδίων ομαδοποίησης του 'split by party'.
 
-![Colour](https://github.com/randomperson19/Report_SW/blob/master/Colour.png)
+![Colour](https://user-images.githubusercontent.com/22643647/39749743-225a644e-52bc-11e8-8b17-3d7c3e5da9a1.png)
 
 * Παρακάτω διαφαίνεται η καινούρια ομαδοποίηση 'split by the amount of the donation' που προστέθηκε.
 
