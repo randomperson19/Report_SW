@@ -67,11 +67,13 @@
 
 * Εδώ παρουσιάζονται οι αλλαγές στα χρώματα των κύκλων με τα δεδομένα, καθώς και των 3 πεδίων ομαδοποίησης του 'split by party'.
 
-![Colour](https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1/Colour.png)
+![Colour]
+(https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1/Colour.png)
 
 * Παρακάτω διαφαίνεται η καινούρια ομαδοποίηση 'split by the amount of the donation' που προστέθηκε.
 
-![Split by the amount of the donation](https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1/Split%20by%20the%20amount%20of%20the%20donation.png)
+![Split by the amount of the donation]
+(https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1/Split%20by%20the%20amount%20of%20the%20donation.png)
 
 * Στη κάτωθι εικόνα είναι ορατή η σειρά επίσκεψης των κύκλων (δωρητών) του γραφήματος μέσα από τις εικόνες που εμφανίζονται
 
