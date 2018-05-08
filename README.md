@@ -71,20 +71,19 @@
 
 * Παρακάτω διαφαίνεται η καινούρια ομαδοποίηση 'split by the amount of the donation' που προστέθηκε.
 
-![Split by the amount of the donation]
-({{https://github.com/randomperson19/D3js-uk-political-donations/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF_2}}/Screenshots/Colour.png)
+![Split by the amount of the donation](https://user-images.githubusercontent.com/22643647/39749751-27608c5c-52bc-11e8-836d-26aeb8e76606.png)
 
 * Στη κάτωθι εικόνα είναι ορατή η σειρά επίσκεψης των κύκλων (δωρητών) του γραφήματος μέσα από τις εικόνες που εμφανίζονται
 
-![Donors' images](https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF_2/Screenshots/Donors'%20images.png)
+![Donors' images](https://user-images.githubusercontent.com/22643647/39749748-2616d37e-52bc-11e8-85c3-61bde5a0cbf9.png)
 
 * Στο παρακάτω animated gif φαίνεται καλύτερα πως επιτυγχάνεται η δυναμική επέκταση των εικόνων των δωρητών
 
-![Donors' images dynamical expansion](https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF_2/Screenshots/Donors'%20images%20dynamical%20expansion%20.gif)
+![Donors' images dynamical expansion](https://user-images.githubusercontent.com/22643647/39749746-246aa686-52bc-11e8-8049-bbaccf9c7f23.gif)
 
 * Τέλος παρατίθεται η λειτουργία του μεγεθυντικού φακού
 
-![Zoom](https://github.com/randomperson19/D3js-uk-political-donations/blob/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF_2/Screenshots/Zoom.gif)
+![Zoom](https://user-images.githubusercontent.com/22643647/39749759-295c0130-52bc-11e8-9ff2-0abe9518b93a.gif)
 
 
 ## Συμπεράσματα
