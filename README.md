@@ -84,7 +84,7 @@
 
 * Στο επόμενο gif απεικονίζεται το animation του username που ζητήθηκε στο 2ο παραδοτέο
 
-![Username animation]((https://user-images.githubusercontent.com/22643647/39817775-c44bc9c8-53a7-11e8-8d19-7597b566bf0d.gif)
+![Username animation](https://user-images.githubusercontent.com/22643647/39817775-c44bc9c8-53a7-11e8-8d19-7597b566bf0d.gif)
 
 * Στη συνέχεια ακολουθεί η σελίδα με την οπτικοποίηση των contributors του κεντρικού αποθετηρίου του κώδικα 
 
