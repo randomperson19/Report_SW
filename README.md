@@ -44,7 +44,8 @@
 
 * Τέλος επεκτάθηκε η εφαρμογή με την προσθήκη της ομαδοποίησης των δεδομένων 'Split by the amount of the donation'
 
-β) Για τα ζητούμενα στα οποία απαιτούνταν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα παρατίθεται ο σχετικός σύνδεσμος από το merged pull-request: [2015107.csv και 5 εικόνες δωρητών](https://github.com/ioniodi/D3js-uk-political-donations/pull/79)
+β) Για τα ζητούμενα στα οποία απαιτούνταν αλλαγές (pull request) στο κοινό αποθετήριο του κώδικα παρατίθεται ο σχετικός σύνδεσμος από το merged pull-request: 
+* [2015107.csv και 5 εικόνες δωρητών](https://github.com/ioniodi/D3js-uk-political-donations/pull/79)
 
 
 ### Αναφορικά με το παραδοτέο 2:
@@ -80,6 +81,18 @@
 * Στο παρακάτω animated gif φαίνεται καλύτερα πως επιτυγχάνεται η δυναμική επέκταση των εικόνων των δωρητών
 
 ![Donors' images dynamical expansion](https://user-images.githubusercontent.com/22643647/39749746-246aa686-52bc-11e8-8049-bbaccf9c7f23.gif)
+
+* Στο επόμενο gif απεικονίζεται το animation του username που ζητήθηκε στο 2ο παραδοτέο
+
+![Username animation]((https://user-images.githubusercontent.com/22643647/39817775-c44bc9c8-53a7-11e8-8d19-7597b566bf0d.gif)
+
+* Στη συνέχεια ακολουθεί η σελίδα με την οπτικοποίηση των contributors του κεντρικού αποθετηρίου του κώδικα 
+
+![Contributors](https://user-images.githubusercontent.com/22643647/39817706-90d1bab2-53a7-11e8-9c87-6a1aeb3496b7.gif)
+
+* Εδώ εικονίζονται τα αποτελέσματα της αναζήτησης στο Google με το όνομα του δωτηρή, στο οποίο έγινε "κλικ"
+
+![Google search](https://user-images.githubusercontent.com/22643647/39817711-936c73f2-53a7-11e8-9d86-62cb4e9e9ad3.gif)
 
 * Τέλος παρατίθεται η λειτουργία του μεγεθυντικού φακού
 
